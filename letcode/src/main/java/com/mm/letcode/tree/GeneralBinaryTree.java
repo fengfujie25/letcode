@@ -1,5 +1,8 @@
 package com.mm.letcode.tree;
 
+import java.sql.SQLOutput;
+import java.util.Scanner;
+
 /**
  * @auther: fujie.feng
  * @DateT: 2019-07-25
@@ -9,7 +12,6 @@ public class GeneralBinaryTree extends AbstractBinaryTreeFactory {
     protected AbstractBinaryTreeFactory factory() {
         return new GeneralBinaryTree();
     }
-
 
     protected TreeNode add(TreeNode node, int value) {
         TreeNode current = new TreeNode(value);

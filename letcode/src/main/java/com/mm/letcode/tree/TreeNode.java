@@ -22,6 +22,9 @@ public class TreeNode {
         this.rightNode = null;
     }
 
+    public TreeNode(){
+
+    }
     /**
      * 添加节点
      * @param root

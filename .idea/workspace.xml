@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92f1b7f5-1d51-4828-b8f7-4bff3ce8df5a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/letcode/letcode.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/letcode/src/main/java/com/mm/letcode/tree/AbstractBinaryTreeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/letcode/src/main/java/com/mm/letcode/tree/AbstractBinaryTreeFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/letcode/src/main/java/com/mm/letcode/tree/DemoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/letcode/src/main/java/com/mm/letcode/tree/DemoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/letcode/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/letcode/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/letcode/src/main/java/com/mm/letcode/tree/GeneralBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/letcode/src/main/java/com/mm/letcode/tree/GeneralBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/letcode/src/main/java/com/mm/letcode/tree/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/letcode/src/main/java/com/mm/letcode/tree/TreeNode.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/letcode/target/" />
@@ -25,8 +24,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/letcode/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+            <state relative-caret-position="238">
+              <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -34,8 +33,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/letcode/src/main/java/com/mm/letcode/tree/TreeNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="89">
-              <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+            <state relative-caret-position="425">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -49,26 +48,26 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/letcode/src/main/java/com/mm/letcode/tree/GeneralBinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="49" column="9" lean-forward="true" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+            <state relative-caret-position="51">
+              <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
               <folding>
+                <element signature="imports" expanded="true" />
                 <element signature="e#200#201#0" expanded="true" />
                 <element signature="e#227#228#0" expanded="true" />
-                <element signature="e#987#988#0" expanded="true" />
-                <element signature="e#1014#1015#0" expanded="true" />
+                <element signature="e#1071#1072#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/letcode/src/main/java/com/mm/letcode/tree/DemoTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="238">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -100,13 +99,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/letcode/pom.xml" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/letcode/src/main/java/com/mm/letcode/tree/TreeNode.java" />
         <option value="$PROJECT_DIR$/letcode/src/main/java/com/mm/letcode/tree/AbstractBinaryTree.java" />
         <option value="$PROJECT_DIR$/letcode/src/main/java/com/mm/letcode/tree/AbstractBinaryTreeFactory.java" />
-        <option value="$PROJECT_DIR$/letcode/src/main/java/com/mm/letcode/tree/DemoTest.java" />
+        <option value="$PROJECT_DIR$/letcode/src/main/java/com/mm/letcode/tree/TreeNode.java" />
+        <option value="$PROJECT_DIR$/letcode/pom.xml" />
         <option value="$PROJECT_DIR$/letcode/src/main/java/com/mm/letcode/tree/GeneralBinaryTree.java" />
+        <option value="$PROJECT_DIR$/letcode/src/main/java/com/mm/letcode/tree/DemoTest.java" />
       </list>
     </option>
   </component>
@@ -133,11 +132,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-43" />
-    <option name="y" value="-1056" />
-    <option name="width" value="1635" />
-    <option name="height" value="1027" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-126" />
+    <option name="y" value="-1057" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -249,7 +248,7 @@
       <option name="presentableId" value="Default" />
       <updated>1564034119856</updated>
       <workItem from="1564034121110" duration="578000" />
-      <workItem from="1564034705982" duration="6036000" />
+      <workItem from="1564034705982" duration="7951000" />
     </task>
     <task id="LOCAL-00001" summary="基本二叉树">
       <created>1564037587376</created>
@@ -258,17 +257,24 @@
       <option name="project" value="LOCAL" />
       <updated>1564037587376</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="基本二叉树">
+      <created>1564041034479</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1564041034479</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6614000" />
+    <option name="totallyTimeSpent" value="8529000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-43" y="-1056" width="1635" height="1027" extended-state="0" />
+    <frame x="-126" y="-1057" width="1920" height="1057" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25235406" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2140575" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -279,7 +285,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32941177" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.56363636" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.32746115" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -290,7 +296,7 @@
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Sequence" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Maven" order="1" weight="0.32956687" />
+      <window_info anchor="right" id="Maven" order="1" weight="0.27955273" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
       <window_info anchor="right" id="Palette" order="4" />
@@ -300,7 +306,7 @@
       <window_info anchor="right" id="Database" order="8" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25235406" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2140575" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -311,7 +317,7 @@
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
       <window_info anchor="bottom" id="Run" order="3" weight="0.32941177" />
-      <window_info active="true" anchor="bottom" id="Debug" order="4" visible="true" weight="0.56363636" />
+      <window_info active="true" anchor="bottom" id="Debug" order="4" visible="true" weight="0.32746115" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" />
@@ -322,7 +328,7 @@
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Sequence" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Maven" order="1" visible="true" weight="0.32956687" />
+      <window_info anchor="right" id="Maven" order="1" visible="true" weight="0.27955273" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
       <window_info anchor="right" id="Palette" order="4" />
@@ -339,24 +345,6 @@
     <MESSAGE value="基本二叉树" />
     <option name="LAST_COMMIT_MESSAGE" value="基本二叉树" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/letcode/src/main/java/com/mm/letcode/tree/GeneralBinaryTree.java</url>
-          <line>53</line>
-          <properties />
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/letcode/src/main/java/com/mm/letcode/tree/GeneralBinaryTree.java</url>
-          <line>47</line>
-          <properties />
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -368,20 +356,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/letcode/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/letcode/src/main/java/com/mm/letcode/tree/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/letcode/src/main/java/com/mm/letcode/tree/AbstractBinaryTreeFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="268">
@@ -389,23 +363,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/letcode/src/main/java/com/mm/letcode/tree/DemoTest.java">
+    <entry file="file://$PROJECT_DIR$/letcode/src/main/java/com/mm/letcode/tree/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="425">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/letcode/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/letcode/src/main/java/com/mm/letcode/tree/GeneralBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="49" column="9" lean-forward="true" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+        <state relative-caret-position="51">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
           <folding>
+            <element signature="imports" expanded="true" />
             <element signature="e#200#201#0" expanded="true" />
             <element signature="e#227#228#0" expanded="true" />
-            <element signature="e#987#988#0" expanded="true" />
-            <element signature="e#1014#1015#0" expanded="true" />
+            <element signature="e#1071#1072#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/letcode/src/main/java/com/mm/letcode/tree/DemoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
