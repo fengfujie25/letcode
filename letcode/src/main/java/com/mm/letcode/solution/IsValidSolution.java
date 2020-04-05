@@ -1,7 +1,5 @@
 package com.mm.letcode.solution;
 
-import ch.qos.logback.classic.pattern.LineOfCallerConverter;
-
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Stack;
@@ -52,11 +50,15 @@ public class IsValidSolution {
     }
 
     public boolean isValid(String s) {
-        if (s == null || s.length() == 0) return true;
+        if (s == null || s.length() == 0) {
+            return true;
+        }
         Stack<Character>  stack = new Stack<>();
         for (char c : s.toCharArray()) {
             if (map.containsKey(c)) {
-                if (stack.size() == 0 || !map.get(c).equals(stack.pop())) return false;
+                if (stack.size() == 0 || !map.get(c).equals(stack.pop())) {
+                    return false;
+                }
             } else {
                 stack.push(c);
             }
